@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.bobbywagner54.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.bobbywagner54.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.bobbywagner54.com/collections/all.atom"/>
+  <title>Bobby Wagner</title>
+  <updated>2017-02-16T12:13:00-08:00</updated>
+  <author>
+    <name>Bobby Wagner</name>
+  </author>
+  <entry>
+    <id>https://www.bobbywagner54.com/products/8891936329</id>
+    <published>2017-02-16T12:13:00-08:00</published>
+    <updated>2017-02-16T12:13:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bobbywagner54.com/products/bw54-seaball"/>
+    <title>SEA Ball Tee</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Bobby Wagner</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1025/1035/products/Seaball.jpg?v=1487276001" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Bobby Wagner<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>My SEA Ball tee was designed </span><span>to represent my </span><span>style of play, and provide the best fans in the NFL a chance to show some love to me and this team. Don't miss out - add this to your collection today!</span></p>
+<p>Product Details:</p>
+<p><span><span>- Men's Short Sleeve, Premium Fitted Crew</span></span><span> </span><br><span><span>- Heathered Grey </span></span><span>åTee made of 90% Soft Spun Cotton/10% poly</span><br><span>- 5.5 ounce<br>- Tear Away Tag</span></p>
+<meta charset="utf-8">
+<p><span><em>NOTE: Women's cut runs snug - order 1 size larger than typical for looser fit.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men&apos;s</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Women&apos;s</s:tag>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891936329</id>
+      <title>Mens / Small / Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMSSTCGFTB001</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891936329</id>
+      <title>Mens / Medium / Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMMMTCGFTB001</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891936329</id>
+      <title>Mens / Large / Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMLLTCGFTB001</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891936329</id>
+      <title>Mens / X-Large / Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMXLTCGFTB001</s:sku>
+      <s:grams>193</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891936329</id>
+      <title>Mens / 2X-Large / Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWM2XTCGFTB001</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891936329</id>
+      <title>Womens / Small / Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWSSTCGFTB001</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891936329</id>
+      <title>Womens / Medium / Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWMMTCGFTB001</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891936329</id>
+      <title>Womens / Large / Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWLLTCGFTB001</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891936329</id>
+      <title>Womens / X-Large / Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWXLTCGFTB001</s:sku>
+      <s:grams>162</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891936329</id>
+      <title>Womens / 2X-Large / Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWW2XTCGFTB001</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bobbywagner54.com/products/8891642185</id>
+    <published>2017-02-16T11:34:00-08:00</published>
+    <updated>2017-02-16T11:34:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bobbywagner54.com/products/bw-logo"/>
+    <title>BW Logo Tee</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Bobby Wagner</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1025/1035/products/BW-Lifestyle.jpg?v=1487273607" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Bobby Wagner<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Enhance your shirt collection with my official BW lifestyle tee. Rep my logo everywhere you go!</span></p>
+<p>Product Details:</p>
+<p><span><span>- Men's Short Sleeve, Premium Fitted Crew</span></span><span> </span><br><span><span>- Heathered Grey </span></span><span>Tee made of 90% Ring Spun Cotton/10% Poly</span><br><span>- 5.5 ounce<br>- Tear Away Tag</span></p>
+<meta charset="utf-8">
+<p><span><em>NOTE: Women's cut runs snug - order 1 size larger than typical for looser fit.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men&apos;s</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Women&apos;s</s:tag>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891642185</id>
+      <title>Mens / Small / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMSSTCGLOG002</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891642185</id>
+      <title>Mens / Medium / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMMMTCGLOG002</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891642185</id>
+      <title>Mens / Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMLLTCGLOG002</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891642185</id>
+      <title>Mens / X-Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMXLTCGLOG002</s:sku>
+      <s:grams>193</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891642185</id>
+      <title>Mens / 2X-Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWM2XTCGLOG002</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891642185</id>
+      <title>Womens / Small / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWSSTCGLOG002</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891642185</id>
+      <title>Womens / Medium / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWMMTCGLOG002</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891642185</id>
+      <title>Womens / Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWLLTCGLOG002</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891642185</id>
+      <title>Womens / X-Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWXLTCGLOG002</s:sku>
+      <s:grams>162</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891642185</id>
+      <title>Womens / 2X-Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWW2XTCGLOG002</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bobbywagner54.com/products/8891549769</id>
+    <published>2017-02-16T11:21:00-08:00</published>
+    <updated>2017-02-16T11:21:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bobbywagner54.com/products/bw-skyline"/>
+    <title>BW Skyline Tee</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Bobby Wagner</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1025/1035/products/BW-skyline.jpg?v=1487373349" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Bobby Wagner<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span class="s1"><span>This design is a tribute to the city that has shown me nothing but love since I arrived. My BW Skyline tee implements a unique design of the two things that mean the most to me; Seattle and football.</span></span></p>
+<p>Product Details:</p>
+<p><span><span>- Men's Short Sleeve, Premium Fitted Crew</span></span><span> </span><br><span><span>- Lime Green </span></span><span>Tee made of 50% Ring Spun Cotton/50% Poly</span><br><span>- 5.5 ounce<br>- Tear Away Tag</span></p>
+<meta charset="utf-8">
+<p><span><em>NOTE: Women's cut runs snug - order 1 size larger than typical for looser fit.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men&apos;s</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Women&apos;s</s:tag>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891549769</id>
+      <title>Mens / Small / Lime Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMSSTCLSKY001</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891549769</id>
+      <title>Mens / Medium / Lime Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMMMTCLSKY001</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891549769</id>
+      <title>Mens / Large / Lime Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMLLTCLSKY001</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891549769</id>
+      <title>Mens / X-Large / Lime Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMXLTCLSKY001</s:sku>
+      <s:grams>193</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891549769</id>
+      <title>Mens / 2X-Large / Lime Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWM2XTCLSKY001</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891549769</id>
+      <title>Womens / Small / Lime Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWSSTCLSKY001</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891549769</id>
+      <title>Womens / Medium / Lime Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWMMTCLSKY001</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891549769</id>
+      <title>Womens / Large / Lime Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWLLTCLSKY001</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891549769</id>
+      <title>Womens / X-Large / Lime Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWXLTCLSKY001</s:sku>
+      <s:grams>162</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8891549769</id>
+      <title>Womens / 2X-Large / Lime Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWW2XTCLSKY001</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bobbywagner54.com/products/8890909321</id>
+    <published>2017-02-16T10:06:00-08:00</published>
+    <updated>2017-02-16T10:06:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bobbywagner54.com/products/54-b-wagz"/>
+    <title>54 B-Wagz Tee</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Bobby Wagner</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1025/1035/products/54-b-wagz.jpg?v=1487268309" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Bobby Wagner<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span class="s1"><span>Join the B-Wagz movement by adding this tee to your game day collection. This </span><span>shirt </span><span>features the perfect blend of comfort and design that is sure to turn heads wherever you go.</span></span></p>
+<p><span class="s1">Product Details:</span><br><span><span>- Men's Short Sleeve, Premium Fitted Crew</span></span><span> </span><br><span><span>- Heathered Grey </span></span><span>Tee made of 90% Ring Spun Cotton/10% Poly</span><br><span>- 5.5 ounce<br>- Tear Away Tag</span></p>
+<meta charset="utf-8">
+<p><span><em>NOTE: Women's cut runs snug - order 1 size larger than typical for looser fit.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men&apos;s</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Women&apos;s</s:tag>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890909321</id>
+      <title>Mens / Small / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMSSTCGBW54002</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890909321</id>
+      <title>Mens / Medium / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMMMTCGBW54002</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890909321</id>
+      <title>Mens / Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMLLTCGBW54002</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890909321</id>
+      <title>Mens / X-Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMXLTCGBW54002</s:sku>
+      <s:grams>193</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890909321</id>
+      <title>Mens / 2X-Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWM2XTCGBW54002</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890909321</id>
+      <title>Womens / Small / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWSSTCGBW54002</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890909321</id>
+      <title>Womens / Medium / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWMMTCGBW54002</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890909321</id>
+      <title>Womens / Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWLLTCGBW54002</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890909321</id>
+      <title>Womens / X-Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWXLTCGBW54002</s:sku>
+      <s:grams>162</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890909321</id>
+      <title>Womens / 2X-Large / Heathered Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWW2XTCGBW54002</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bobbywagner54.com/products/8890840201</id>
+    <published>2017-02-16T09:51:00-08:00</published>
+    <updated>2017-02-16T09:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bobbywagner54.com/products/bw54-standard"/>
+    <title>54 Standard Tee</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Bobby Wagner</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1025/1035/products/54-standard.jpg?v=1487267306" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Bobby Wagner<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span class="s1">Let this clean design and comfortable fit set the standard of your game day wardrobe. Rep my name and number in true Seahawks colors. This shirt is perfect for game days!</span></p>
+<p><span class="s1">Product Details:</span><br><span><span>- Short Sleeve, Premium Fitted Crew</span></span><span> </span><br><span><span>- </span></span><span>Navy Tee made of 100% Ring Spun Cotton</span><br><span>- 5.5 ounce<br>- Tear Away Tag<br></span>- Small works great for kids!</p>
+<p><span><em>NOTE: Women's cut runs snug - order 1 size larger than typical for looser fit.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men&apos;s</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Women&apos;s</s:tag>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890840201</id>
+      <title>Mens / Small / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMSSTCNBW54001</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890840201</id>
+      <title>Mens / Medium / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMMMTCNBW54001</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890840201</id>
+      <title>Mens / Large / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMLLTCNBW54001</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890840201</id>
+      <title>Mens / X-Large / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWMXLTCNBW54001</s:sku>
+      <s:grams>193</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890840201</id>
+      <title>Mens / 2X-Large / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWM2XTCNBW54001</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890840201</id>
+      <title>Mens / 3X-Large / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWM3XTCNBW54001</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890840201</id>
+      <title>Womens / Small / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWSSTCNBW54001</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890840201</id>
+      <title>Womens / Medium / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWMMTCNBW54001</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890840201</id>
+      <title>Womens / Large / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWLLTCNBW54001</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890840201</id>
+      <title>Womens / X-Large / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWWXLTCNBW54001</s:sku>
+      <s:grams>162</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/8890840201</id>
+      <title>Womens / 2X-Large / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>BWW2XTCNBW54001</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bobbywagner54.com/products/7923699145</id>
+    <published>2016-10-11T12:23:00-07:00</published>
+    <updated>2016-10-11T12:23:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bobbywagner54.com/products/bw54-snapback-cap"/>
+    <title>BW54 Snapback Hat</title>
+    <s:type></s:type>
+    <s:vendor>Bobby Wagner</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1025/1035/products/7.jpg?v=1475163571" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Bobby Wagner<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Join the BW54 movement by adding this snapback to your look. With an embroidered graphic, and a low-rise design - this hat is guaranteed to stand out on game days, or any other occasion.</p>
+<meta charset="utf-8">
+<p><span>Featuring the original BW54 snapback hat:</span></p>
+<p><span>- Black</span><br><span>- Features the official BW54 Logo </span><br><span>- Sizes: Adult, one size fits most</span><span> </span><br><span>- Adjustable plastic snapback  </span><br><span>- Poly-wool performance fabric</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/7923699145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>BWU1SHCBLOG001</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bobbywagner54.com/products/7923725705</id>
+    <published>2016-10-11T12:20:00-07:00</published>
+    <updated>2016-10-11T12:20:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bobbywagner54.com/products/bw54-snapback-cap-black-grey"/>
+    <title>BW54 Snapback Hat</title>
+    <s:type></s:type>
+    <s:vendor>Bobby Wagner</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1025/1035/products/hat_01.jpg?v=1475008180" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Bobby Wagner<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Join the BW54 movement by adding this snapback to your look. With an embroidered graphic, and a low-rise design - this hat is guaranteed to stand out on game days, or any other occasion.</p>
+<p><span>Featuring the original BW54 snapback hat</span></p>
+<p><span>- Heathered Grey Cap/Navy Brim</span><br><span>- Features the official BW54 Logo </span><br><span>- Sizes: Adult, one size fits most</span><span> </span><br><span>- Adjustable plastic snapback  </span><br><span>- Poly-wool performance fabric</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/7923725705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>BWU1SHCGLOG001</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.bobbywagner54.com/products/3459499461</id>
+    <published>2016-02-05T12:35:00-08:00</published>
+    <updated>2016-02-05T12:35:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.bobbywagner54.com/products/babby-wagner-wristband-bundle"/>
+    <title>B-WAGZ Wristband Bundle</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Bobby Wagner</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1025/1035/products/BW_wristbands_f6df74c0-cde8-437b-9da8-7e8601132c2d.jpg?v=1454712081" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Bobby Wagner<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Want to show your BWAGZ and Seahawks pride in a subtle way? This wristband bundle is the perfect item! Rep the Seattle Seahawks no matter the occasion or where you go. Go Hawks!</p>
+<span>Product Details:</span><br><span><span>- Features 2 "BWAGZ 54 HIT SQUAD" bands.</span><br><span>- 2 pack bundle comes with 1 Navy AND 1 Lime wristband</span><br><span>- Wristband measures 8" in around</span> <br><span>- Fits most adults - male and female</span> <br><span>- Debossed letters for texture and stylish look</span> <br><span>- Made from soft silicone for maximum comfort and flexibility</span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.bobbywagner54.com/products/3459499461</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>BWU1SA2C2WR</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+</feed>
